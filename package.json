@@ -1,0 +1,24 @@
+{
+  "name": "sourcecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://x-token-auth:ATCTT3xFfGN0VIJVrzbaDcvRzf1L1kPwrXe6w9XTstvdejPqKiG8Zrfh4XRt6py3OkyPkgkOsPOQqncwFzUhOwL1GYF-jKZOu8qJyl9OTe53cG4Xm3kfSAfAo7X6NqAQslSP6hU8kVd2KYxh3YvCOlfirpKrbnjSaP0h1g8L450hvmTjhgPlFMs%3D4889948D@bitbucket.org/vock/powerbank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/vock/powerbank/issues"
+  },
+  "homepage": "https://bitbucket.org/vock/powerbank#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.14.2"
+  }
+}
